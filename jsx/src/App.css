@@ -1,0 +1,86 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vw;
+    padding: 0;
+    margin: 0;
+    background-color: beige;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+}
+
+.line {
+    display: flex;
+    flex-direction: row;
+}
+
+.given-number,
+.input-number {
+    display: flex;
+    border: 1px solid black;
+    width: 70px;
+    height: 70px;
+    font-size: 35px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.given-number {
+    background-color: gainsboro;
+}
+
+.input-number::-webkit-inner-spin-button,
+.input-number::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.total-count {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+    padding-left: 5px;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+#total-count-input {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+    border: none;
+    /* border: 0.1px solid rgb(0, 204, 255); */
+    background-color: beige;
+    color: transparent;
+    display: inline-block;
+    text-shadow: 0 0 0 red;
+}
+
+#total-count-input::-webkit-inner-spin-button,
+#total-count-input::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.header {
+    border: none;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+*:focus {
+    outline: none;
+}

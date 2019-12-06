@@ -1,0 +1,96 @@
+["INFO" - 1:27:13 pm] Extension Name: "prettier-vscode".
+["INFO" - 1:27:13 pm] Extension Version: "3.11.0".
+["INFO" - 1:27:13 pm] Enabling prettier in workspace 'jsx' for languages:
+[
+  "javascript",
+  "mongo",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "jsonc",
+  "json5",
+  "css",
+  "postcss",
+  "less",
+  "scss",
+  "graphql",
+  "markdown",
+  "mdx",
+  "html",
+  "vue",
+  "yaml"
+]
+["INFO" - 1:27:13 pm] Enabling prettier for range supported languages
+[
+  "javascript",
+  "javascriptreact",
+  "typescript",
+  "typescriptreact",
+  "json",
+  "graphql"
+]
+["INFO" - 1:31:36 pm] Formatting /home/sachin/tarzan/React-Sudoku/jsx/src/App.js
+["INFO" - 1:31:36 pm] Using bundled version of prettier.
+["INFO" - 1:31:36 pm] Using ignore file (if present) at /home/sachin/tarzan/React-Sudoku/jsx/.prettierignore
+["INFO" - 1:31:36 pm] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:31:36 pm] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:31:36 pm] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sachin/tarzan/React-Sudoku/jsx/src/App.js",
+  "parser": "babel"
+}
+["INFO" - 1:31:36 pm] Formatting completed in 405.426144ms.
+["INFO" - 1:44:53 pm] Formatting /home/sachin/tarzan/React-Sudoku/jsx/src/App.js
+["INFO" - 1:44:53 pm] Using bundled version of prettier.
+["INFO" - 1:44:53 pm] Using ignore file (if present) at /home/sachin/tarzan/React-Sudoku/jsx/.prettierignore
+["INFO" - 1:44:53 pm] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:44:53 pm] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:44:53 pm] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/sachin/tarzan/React-Sudoku/jsx/src/App.js",
+  "parser": "babel"
+}
+["INFO" - 1:44:53 pm] Formatting completed in 76.972242ms.

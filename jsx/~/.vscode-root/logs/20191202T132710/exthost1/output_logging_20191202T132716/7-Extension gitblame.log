@@ -1,0 +1,6 @@
+[ 13:27:16 | command ] git rev-parse --show-toplevel
+[ 13:27:16 | error ] Error: fatal: not a git repository (or any of the parent directories): .git
+[ 13:27:16 | info ] Will not try to blame file "/home/sachin/tarzan/React-Sudoku/jsx/src/App.js" as it is outside of the current workspace
+[ 13:31:30 | command ] git rev-parse --show-toplevel
+[ 13:31:30 | error ] Error: fatal: not a git repository (or any of the parent directories): .git
+[ 13:31:30 | info ] Will not try to blame file "/home/sachin/tarzan/React-Sudoku/jsx/src/App.js" as it is outside of the current workspace
